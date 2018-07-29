@@ -1,0 +1,10 @@
+elektro;Электричество;KievOblEnergo
+coldwater1;хол.вода№1;Vodokanal
+coldwater2;Хол.вода№2;Vodokanal
+hotwater1;Гор.вода№1;Vodokanal
+hotwater2;Гор.вода№2;Vodokanal
+heat;Отопление;CenterEnergo
+waterToHeat1;Подогрев№1;CenterEnergo
+waterToHeat2;Подогрев№2;CenterEnergo
+poz;ПОЖ;Pozh
+tvinet;ТВинтернет;Volia
